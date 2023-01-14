@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.service.jre" name="Java Runtime Enviroment Install" version="1.0.0" provider-name="Fandangos">
+<addon id="script.service.jre" name="Java Runtime Enviroment Install" version="1.2.0" provider-name="Fandangos">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
