@@ -1,0 +1,15 @@
+<keymap>
+  <FullscreenVideo>
+    <keyboard>
+      <return mod="longpress">PlayerControl(ShowVideoMenu)</return>
+    </keyboard>
+  </FullscreenVideo>
+  <VideoMenu>
+    <keyboard>
+      <return mod="longpress">PlayerControl(ShowVideoMenu)</return>
+      <play_pause mod="longpress">OSD</play_pause>
+      <backspace mod="longpress">Stop</backspace>
+      <browser_back mod="longpress">Stop</browser_back>
+    </keyboard>
+  </VideoMenu>
+</keymap>
